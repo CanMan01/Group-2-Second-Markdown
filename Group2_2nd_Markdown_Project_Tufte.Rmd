@@ -32,7 +32,7 @@ The Monty Hall problem comes from the game show called "Let's make a Deal."^[Tha
 
 ![](C:/Users/doibl/Desktop/Pictures/Second Markdown Photos/montyhallproblem.jpeg)
 
-A contestant is given 3 doors to pick from, one of which has a car behind it as the grand prize. The other two doors are duds, containing items that aren't desirable.
+A contestant is given 3 doors to pick from, one of which has a car behind it as the grand prize. The other two doors are duds, containing items that aren't desirable.^[In this case, the dud item is a goat. Goats aren't so bad...]
 
 
 ![The three doors](C:/Users/doibl/Desktop/Pictures/Second Markdown Photos/3 doors Monty Hall.png)
